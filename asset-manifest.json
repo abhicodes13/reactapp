@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abhicodes13/reactapp.git/robofriends/static/css/main.5822bb45.css",
-    "main.js": "/abhicodes13/reactapp.git/robofriends/static/js/main.1b2cc7cc.js",
-    "static/js/787.32032a02.chunk.js": "/abhicodes13/reactapp.git/robofriends/static/js/787.32032a02.chunk.js",
-    "index.html": "/abhicodes13/reactapp.git/robofriends/index.html",
-    "main.5822bb45.css.map": "/abhicodes13/reactapp.git/robofriends/static/css/main.5822bb45.css.map",
-    "main.1b2cc7cc.js.map": "/abhicodes13/reactapp.git/robofriends/static/js/main.1b2cc7cc.js.map",
-    "787.32032a02.chunk.js.map": "/abhicodes13/reactapp.git/robofriends/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/abhicodes13/reactapp.git/reactapp/static/css/main.5822bb45.css",
+    "main.js": "/abhicodes13/reactapp.git/reactapp/static/js/main.7d49d89a.js",
+    "static/js/787.32032a02.chunk.js": "/abhicodes13/reactapp.git/reactapp/static/js/787.32032a02.chunk.js",
+    "index.html": "/abhicodes13/reactapp.git/reactapp/index.html",
+    "main.5822bb45.css.map": "/abhicodes13/reactapp.git/reactapp/static/css/main.5822bb45.css.map",
+    "main.7d49d89a.js.map": "/abhicodes13/reactapp.git/reactapp/static/js/main.7d49d89a.js.map",
+    "787.32032a02.chunk.js.map": "/abhicodes13/reactapp.git/reactapp/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5822bb45.css",
-    "static/js/main.1b2cc7cc.js"
+    "static/js/main.7d49d89a.js"
   ]
 }
